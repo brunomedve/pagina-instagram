@@ -1,10 +1,7 @@
 # Projeto página do Instagram 👇 📱
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o projeto da página de login do Instagram utilizando Flexbox, realizado no bootcamp do Santander FullStack Developer! 
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Você pode acessar a página por este [link]()
 
 ## 🚀 Let's code! 🚀
